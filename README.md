@@ -2,14 +2,23 @@
 
 
 ![1-dark](https://user-images.githubusercontent.com/80417201/202951901-67e3b1d9-0b7f-4936-8027-4e03ed8351dd.png)
+# The future of Bigfoots Game Shack
+## What happened?
+On December 22nd, 2023 we were informed by Bigfoot's Brother that he had passed away in Novemeber during his battle with Cancer.
 
+This is the message that his Brother shared with us.
+> "Hi guys this is bigfoot's brother. I am sad to inform you guys that he passed away to cancer last month. In his will he instructed me to make an announcement to Interstellar network and his server telling you 
+guys goodbye. He wanted to let you guys know how much this server meant to him and how much he loved being apart of Interstellar. 
+ Goodbye - Bigfoot :heart:"
+## What now?
+Both Interstellar and the Original Owners of BGS and the new Owners of BGS will be updating the site and keeping it online.
 
-![GitHub issues](https://img.shields.io/github/issues/fidind3211/bigfootlogo=github&style=flat-square) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/fidind3211/bigfoot?label=Pull%20requests&logo=github&style=flat-square) 
-![GitHub](https://img.shields.io/github/license/fidind3211/bigfoot?label=Licence&logo=github&style=flat-square) 
-![GitHub forks](https://img.shields.io/github/forks/fidind3211/bigfoot?label=Forks&logo=github&style=flat-square) 
-![GitHub Repo stars](https://img.shields.io/github/stars/fidind3211/bigfoot?color=yellow&label=Stars&logo=github&style=flat-square) 
-![GitHub repo size](https://img.shields.io/github/repo-size/fidind3211/bigfoot?label=Repo%20size&logo=github&style=flat-square) 
+![GitHub issues](https://img.shields.io/github/issues/InterstellarNetwork/Bigfoots-GS?logo=github&style=flat-square) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/InterstellarNetwork/Bigfoots-GS?label=Pull%20requests&logo=github&style=flat-square) 
+![GitHub](https://img.shields.io/github/license/InterstellarNetwork/Bigfoots-GS?label=Licence&logo=github&style=flat-square) 
+![GitHub forks](https://img.shields.io/github/forks/InterstellarNetwork/Bigfoots-GS?label=Forks&logo=github&style=flat-square) 
+![GitHub Repo stars](https://img.shields.io/github/stars/InterstellarNetwork/Bigfoots-GS?color=yellow&label=Stars&logo=github&style=flat-square) 
+![GitHub repo size](https://img.shields.io/github/repo-size/InterstellarNetwork/Bigfoots-GS?label=Repo%20size&logo=github&style=flat-square) 
 
 The Bigfoot's Game Shack team asks that in case you use our software, that you give us credit! For copyright issues and claims please contact spakowe on Discord. We understand that all copyrights are the property of their respective owners, we do not take credit for any of the games provided by Bigfoot's Game Shack. 
 It is our mission to provide unblocked games to you guys! That's why our code is public, so you can use any of our materials as long as you give credit. That's all we ask :)
