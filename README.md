@@ -11,7 +11,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/fidind3211/bigfoot?color=yellow&label=Stars&logo=github&style=flat-square) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/fidind3211/bigfoot?label=Repo%20size&logo=github&style=flat-square) 
 
-The Bigfoot's Game Shack team asks that in case you use our software, that you give us credit! For copyright issues and claims please contact Bigfoot#9033 on Discord. We understand that all copyrights are the property of their respective owners, we do not take credit for any of the games provided by Bigfoot's Game Shack. 
+The Bigfoot's Game Shack team asks that in case you use our software, that you give us credit! For copyright issues and claims please contact spakowe on Discord. We understand that all copyrights are the property of their respective owners, we do not take credit for any of the games provided by Bigfoot's Game Shack. 
 It is our mission to provide unblocked games to you guys! That's why our code is public, so you can use any of our materials as long as you give credit. That's all we ask :)
   <br>
 
@@ -23,7 +23,6 @@ It is our mission to provide unblocked games to you guys! That's why our code is
   [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fidind3211/bigfoot)
   [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/fidind3211/bigfoot)
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/fidind3211/bigfoot/archive/refs/heads/main.zip)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/fidind3211/bigfoot)
 
 
   <div align='center'> 
