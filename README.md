@@ -26,19 +26,19 @@ It is our mission to provide unblocked games to you guys! That's why our code is
 
 
   <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/BigfootsGS/BigfootsGS.github.io"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg"></a>
-[![Deploy with Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fidind3211/bigfoot)
-[![Deploy with Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/fidind3211/bigfoot)
-  [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/fidind3211/bigfoot)
-  [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/fidind3211/bigfoot)
-  [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/fidind3211/bigfoot)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/fidind3211/bigfoot/archive/refs/heads/main.zip)
+[![Deploy with Netlify](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/InterstellarNetwork/Bigfoots-GS)
+[![Deploy with Vercel](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/InterstellarNetwork/Bigfoots-GS)
+  [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/InterstellarNetwork/Bigfoots-GS)
+  [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/InterstellarNetwork/Bigfoots-GS)
+  [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/InterstellarNetwork/Bigfoots-GS)
+[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/InterstellarNetwork/Bigfoots-GS/archive/refs/heads/main.zip)
 
 
   <div align='center'> 
   <h1>Contributors</h1>
 <img src="https://contrib.rocks/image?repo=BigfootsGS/BigfootsGS.github.io"/>
 
-Don't worry if we are blocked. Here is a list of [unblocked links](https://github.com/fidind3211/bigfoot/blob/main/other/links.md).
+Don't worry if we are blocked. Here is a list of [unblocked links](https://github.com/InterstellarNetwork/Bigfoots-GS/blob/main/other/links.md).
 
 <div align='left'>
 
