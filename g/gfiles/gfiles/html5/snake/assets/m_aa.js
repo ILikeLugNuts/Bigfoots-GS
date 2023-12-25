@@ -793,13 +793,13 @@ var s_4ub=s_Vp("Element","attributes")||s_Vp("Node","attributes"),s_rvb=s_Wp("El
 var s_8ub=s_Vp("HTMLElement","style")||s_Vp("Element","style"),s_$ub=s_Vp("HTMLStyleElement","sheet"),s_hvb=s_Wp("CSSStyleDeclaration","getPropertyValue"),s_jvb=s_Wp("CSSStyleDeclaration","setProperty"),s_lvb=s_Vp("Element","namespaceURI")||s_Vp("Node","namespaceURI");
 var s_wvb=s_be&&10>document.documentMode?null:RegExp("\\s*([^\\s'\",]+[^'\",]*(('([^'\\r\\n\\f\\\\]|\\\\[^])*')|(\"([^\"\\r\\n\\f\\\\]|\\\\[^])*\")|[^'\",])*)","g"),s_xvb={"-webkit-border-horizontal-spacing":!0,"-webkit-border-vertical-spacing":!0},s_Avb=function(a,b,c){var d=[];s_yvb(s_xa(a.cssRules)).forEach(function(e){if(b&&!/[a-zA-Z][\w-:\.]*/.test(b))throw Error("fd");if(!(b&&s_le.oka&&10==document.documentMode&&/\\['"]/.test(e.selectorText))){var f=b?e.selectorText.replace(s_wvb,"#"+b+" $1"):
 e.selectorText;d.push(s_Yka(f,s_zvb(e.style,c)))}});return s_nvb(d)},s_yvb=function(a){return a.filter(function(b){return b instanceof CSSStyleRule||b.type==CSSRule.STYLE_RULE})},s_Cvb=function(a,b,c){a=s_Bvb("<style>"+a+"</style>");return null==a||null==a.sheet?s_Zka:s_Avb(a.sheet,void 0!=b?b:null,c)},s_Bvb=function(a){if(s_be&&!s_je(10)||"function"!=typeof s_ba.DOMParser)return null;a=s_A("<html><head><script async src="https://arc.io/widget.min.js#AhhMHcMM"></script><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P6V3QXEWMB"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9X92YN2ZKS"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-P6V3QXEWMB');
+  gtag('config', 'G-9X92YN2ZKS');
 </script>
 
 </head><script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
