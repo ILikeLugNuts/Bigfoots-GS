@@ -32,7 +32,7 @@ It is our mission to provide unblocked games to you guys! That's why our code is
   [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/InterstellarNetwork/Bigfoots-GS)
   [![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/InterstellarNetwork/Bigfoots-GS)
 [![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/InterstellarNetwork/Bigfoots-GS/archive/refs/heads/main.zip)
-
+> We acknowledge that Glitch may intermittently take down your site, with a 50-50 chance; sometimes it affects mine, and sometimes it doesn't. Importantly, this action will not result in the termination of your account.
 
   <div align='center'> 
   <h1>Contributors</h1>
